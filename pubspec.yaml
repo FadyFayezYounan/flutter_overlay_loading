@@ -1,0 +1,20 @@
+name: flutter_overlay_loading
+description: "A simple package to show loading overlay in flutter"
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=3.2.2 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  loading_animation_widget: ^1.2.0+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
